@@ -1,0 +1,7 @@
+C:\Users\Aliyah\CloudStation\Other\Suraya Project Euler\ProjectEuler15\ProjectEuler15\bin\Debug\ProjectEuler15.exe.config
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler15\ProjectEuler15\bin\Debug\ProjectEuler15.exe.config
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler15\ProjectEuler15\bin\Debug\ProjectEuler15.exe
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler15\ProjectEuler15\bin\Debug\ProjectEuler15.pdb
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler15\ProjectEuler15\obj\Debug\ProjectEuler15.csprojResolveAssemblyReference.cache
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler15\ProjectEuler15\obj\Debug\ProjectEuler15.exe
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler15\ProjectEuler15\obj\Debug\ProjectEuler15.pdb

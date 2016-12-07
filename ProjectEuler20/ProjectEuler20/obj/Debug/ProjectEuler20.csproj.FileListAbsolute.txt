@@ -1,0 +1,6 @@
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler20\ProjectEuler20\bin\Debug\ProjectEuler20.exe.config
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler20\ProjectEuler20\bin\Debug\ProjectEuler20.exe
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler20\ProjectEuler20\bin\Debug\ProjectEuler20.pdb
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler20\ProjectEuler20\obj\Debug\ProjectEuler20.csprojResolveAssemblyReference.cache
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler20\ProjectEuler20\obj\Debug\ProjectEuler20.exe
+C:\Users\Aliyah\CloudStation\Other\Project Euler\ProjectEuler20\ProjectEuler20\obj\Debug\ProjectEuler20.pdb
